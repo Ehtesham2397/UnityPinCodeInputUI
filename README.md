@@ -51,8 +51,3 @@ Coming soon...
 
 MIT – Free to use in personal and commercial projects.
 
----
-
-## 📸 Screenshot
-
-Coming soon...
