@@ -3,7 +3,9 @@
 A clean and customizable 6-digit PIN code input UI system for Unity using TextMeshPro.  
 Perfect for OTP screens, PIN logins, numeric codes, and more.
 
-![preview](https://drive.google.com/file/d/1Tb45m4UOXjL7d9Z8T6rHADkjmZfyfRgj/view?usp=sharing)
+![preview]
+![image](https://github.com/user-attachments/assets/2904db96-1635-4387-a167-97329cba2fcd)
+
 
 ## ✨ Features
 
